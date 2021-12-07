@@ -1,9 +1,14 @@
+body {
+  margin: 1 rem;
+}
+
 .intro {
-  margin: 2rem;
-  font-size: medium;
+  margin: 1 rem;
+  font-size: 60px;
   color: black;
 }
 
 .c1 {
   color: #ffffff;
+  font-size: 30px;
 }
