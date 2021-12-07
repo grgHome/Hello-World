@@ -1,3 +1,9 @@
-.c1 {
+.intro {
+  margin: 2rem;
+  font-size: medium;
   color: black;
+}
+
+.c1 {
+  color: #ffffff;
 }
