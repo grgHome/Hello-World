@@ -1,4 +1,0 @@
-github username:grgHome
-pw:vsq5-RU7
-email:hh
-repo: hello world
